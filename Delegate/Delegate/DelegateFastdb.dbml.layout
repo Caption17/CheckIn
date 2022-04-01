@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.375" name="DelegateFastdb">
+  <DataContextMoniker Name="/DelegateFastdbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e209a02e-9547-4460-a5b6-fa369e665cb2" absoluteBounds="0.75, 1.25, 2, 7.9245426432291639">
+      <DataClassMoniker Name="/DelegateFastdbDataContext/Canbo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="821678f6-1809-48cc-ae2a-36c431aa49dc" absoluteBounds="0.765, 1.71, 1.9700000000000002, 7.3645426432291661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a444eb51-03cd-473d-af90-be3c25f8f7ea" absoluteBounds="3.5, 4.25, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/DelegateFastdbDataContext/THAMGIA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a3e504de-326e-4df4-aa2f-bb4735600cc2" absoluteBounds="3.515, 4.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3df8f86a-1ff7-447f-9120-c92bb72cba25" absoluteBounds="3.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/DelegateFastdbDataContext/XetNghiem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="091c0bcd-6558-403d-96fc-d62b437d78f5" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 5.23159912109375); (3.5 : 5.23159912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DelegateFastdbDataContext/Canbo/Canbo_THAMGIA" />
+      <nodes>
+        <classShapeMoniker Id="e209a02e-9547-4460-a5b6-fa369e665cb2" />
+        <classShapeMoniker Id="a444eb51-03cd-473d-af90-be3c25f8f7ea" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

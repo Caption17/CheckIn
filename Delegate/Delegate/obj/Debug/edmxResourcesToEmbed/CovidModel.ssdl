@@ -1,0 +1,977 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HTTT_UEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Appointments">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Subject" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Start" Type="datetime" Nullable="false" />
+    <Property Name="End" Type="datetime" Nullable="false" />
+    <Property Name="RecurrenceRule" Type="nvarchar" MaxLength="1024" />
+    <Property Name="RecurrenceParentID" Type="int" />
+    <Property Name="Invitees" Type="nvarchar" MaxLength="1024" />
+    <Property Name="Reminder" Type="nvarchar" MaxLength="256" />
+    <Property Name="TimeZoneID" Type="nvarchar" MaxLength="1024" />
+    <Property Name="RoomID" Type="nvarchar" MaxLength="1024" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="participants" Type="nvarchar" MaxLength="1024" />
+  </EntityType>
+  <EntityType Name="BieuMauDA02">
+    <Key>
+      <PropertyRef Name="IDBieuMauDA02" />
+    </Key>
+    <Property Name="IDBieuMauDA02" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ThutuCongviec" Type="float" />
+    <Property Name="TenCongviec" Type="nvarchar(max)" />
+    <Property Name="Thoiluong" Type="float" />
+    <Property Name="Donvitinh" Type="nvarchar" MaxLength="250" />
+    <Property Name="Dinhky" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sanphamdaura" Type="nvarchar(max)" />
+    <Property Name="TyLeTongCongViec" Type="float" />
+    <Property Name="NguoiDanhGia" Type="nvarchar" MaxLength="500" />
+    <Property Name="IDDonvi" Type="int" />
+    <Property Name="IDNhomCongviec" Type="int" />
+    <Property Name="IDVitriCongviecNew" Type="int" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+    <Property Name="ngaytao" Type="date" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="KPIs" Type="ntext" />
+  </EntityType>
+  <EntityType Name="BieumauDA04">
+    <Key>
+      <PropertyRef Name="IDBieumauDA04" />
+    </Key>
+    <Property Name="IDBieumauDA04" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SLLanhdao" Type="nvarchar(max)" />
+    <Property Name="SLGiangvien" Type="nvarchar(max)" />
+    <Property Name="SLGiaovien" Type="nvarchar(max)" />
+    <Property Name="SLChuyenvienvatuongduong" Type="nvarchar(max)" />
+    <Property Name="Tiensi" Type="nvarchar(max)" />
+    <Property Name="Thacsi" Type="nvarchar(max)" />
+    <Property Name="Cunhan" Type="nvarchar(max)" />
+    <Property Name="Ngoaingu_A2" Type="nvarchar(max)" />
+    <Property Name="Ngoaingu_B1" Type="nvarchar(max)" />
+    <Property Name="Ngoaingu_B2" Type="nvarchar(max)" />
+    <Property Name="Ngoaingu_C1" Type="nvarchar(max)" />
+    <Property Name="Ngoaingu_C2" Type="nvarchar(max)" />
+    <Property Name="Ngoaingu_khac" Type="nvarchar(max)" />
+    <Property Name="Tinhoc_Coban" Type="nvarchar(max)" />
+    <Property Name="Tinhoc_Nangcao" Type="nvarchar(max)" />
+    <Property Name="Tinhoc_Khac" Type="nvarchar(max)" />
+    <Property Name="Chucdanh_Giangvien" Type="nvarchar(max)" />
+    <Property Name="Chucdanh_Giaovien" Type="nvarchar(max)" />
+    <Property Name="Chucdanh_Nghiencuuvien" Type="nvarchar(max)" />
+    <Property Name="Chucdanh_Chuyenvien" Type="nvarchar(max)" />
+    <Property Name="Chucdanh_Ketoanvien" Type="nvarchar(max)" />
+    <Property Name="Chucdanh_Khac" Type="nvarchar(max)" />
+    <Property Name="Tuoi_Duoi30" Type="int" />
+    <Property Name="Tuoi_Tu30den40" Type="int" />
+    <Property Name="Tuoi_Tu40den50" Type="int" />
+    <Property Name="Tuoi_Tren50" Type="int" />
+    <Property Name="Muc_2_1" Type="ntext" />
+    <Property Name="Muc_2_2" Type="ntext" />
+    <Property Name="Muc_2_3" Type="ntext" />
+    <Property Name="Muc_3_Dexuat" Type="ntext" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="Ngaynhap" Type="date" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Bomon">
+    <Key>
+      <PropertyRef Name="IDBomon" />
+    </Key>
+    <Property Name="IDBomon" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaBM" Type="nvarchar" MaxLength="50" />
+    <Property Name="TenBM" Type="nvarchar(max)" />
+    <Property Name="IDDonvi" Type="int" />
+    <Property Name="Ghichu" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Canbo">
+    <Key>
+      <PropertyRef Name="IDCanbo" />
+    </Key>
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="MaCanbo" Type="varchar" MaxLength="50" />
+    <Property Name="TenCanbo" Type="nvarchar(max)" />
+    <Property Name="Gioitinh" Type="nvarchar" MaxLength="10" />
+    <Property Name="Ngaysinh" Type="varchar" MaxLength="20" />
+    <Property Name="Chucvuchucdanh" Type="nvarchar(max)" />
+    <Property Name="Nhiemvudangdamnhiem" Type="nvarchar(max)" />
+    <Property Name="IDBomon" Type="int" />
+    <Property Name="Vehuu" Type="varchar" MaxLength="50" />
+    <Property Name="VehuuKeodai" Type="nvarchar" MaxLength="500" />
+    <Property Name="NgayvaocoquanNN" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ngayvaodonvi" Type="nvarchar" MaxLength="500" />
+    <Property Name="Thamniencongtac" Type="int" />
+    <Property Name="MaCDNN" Type="nvarchar" MaxLength="50" />
+    <Property Name="TenCDNN" Type="nvarchar(max)" />
+    <Property Name="Trinhdodaotao" Type="nvarchar(max)" />
+    <Property Name="Chuyennganh" Type="nvarchar(max)" />
+    <Property Name="HeDaotao" Type="nvarchar(max)" />
+    <Property Name="Ngoaingu" Type="nvarchar" MaxLength="500" />
+    <Property Name="Tinhoc" Type="nvarchar" MaxLength="500" />
+    <Property Name="ChungchiBDNghiepvu" Type="nvarchar(max)" />
+    <Property Name="NamBDDTBDHientai" Type="nvarchar(max)" />
+    <Property Name="GiahanDTBDHientai" Type="nvarchar" MaxLength="50" />
+    <Property Name="NamHoanthanhDTBDHientai" Type="nvarchar(max)" />
+    <Property Name="TenKhoaDTBD" Type="nvarchar(max)" />
+    <Property Name="KinhphiDTBD" Type="nvarchar(max)" />
+    <Property Name="Noidaotao" Type="nvarchar(max)" />
+    <Property Name="Email" Type="nvarchar(max)" />
+    <Property Name="SDT" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="Thoigiancapnhat" Type="datetime" />
+    <Property Name="IDPhanQuyen" Type="float" />
+    <Property Name="Matkhau" Type="varchar(max)" />
+    <Property Name="RandomKey" Type="varchar" MaxLength="50" />
+    <Property Name="IDPhanhomVC" Type="int" />
+    <Property Name="NgayPhatHienFO" Type="nvarchar" MaxLength="10" />
+    <Property Name="NgayKhoiBenhFO" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Congviec">
+    <Key>
+      <PropertyRef Name="IDCongviec" />
+    </Key>
+    <Property Name="IDCongviec" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaCongviec" Type="float" />
+    <Property Name="Tencongviec" Type="nvarchar(max)" />
+    <Property Name="Thoiluong" Type="float" />
+    <Property Name="Donvitinh" Type="nvarchar" MaxLength="250" />
+    <Property Name="Dinhky" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sanphamdaura" Type="nvarchar(max)" />
+    <Property Name="TyLeTongCongViec" Type="float" />
+    <Property Name="NguoiDanhGia" Type="nvarchar" MaxLength="500" />
+    <Property Name="TuDanhGiaCongViec" Type="nvarchar(max)" />
+    <Property Name="KPIs" Type="ntext" />
+    <Property Name="IDNhomCongviec" Type="int" />
+    <Property Name="IDCanBo" Type="varchar" MaxLength="50" />
+    <Property Name="Ngaytao" Type="date" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="CongviecKemtheo">
+    <Key>
+      <PropertyRef Name="IDCV" />
+    </Key>
+    <Property Name="IDCV" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+    <Property Name="Ngaykhai" Type="date" />
+    <Property Name="GhiChu" Type="nvarchar(max)" />
+    <Property Name="IDPheDuyet" Type="int" />
+    <Property Name="Ngaypheduyet" Type="date" />
+    <Property Name="NXPheDuyet" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="DAIBIEU">
+    <Key>
+      <PropertyRef Name="IDDAIBIEU" />
+    </Key>
+    <Property Name="IDDAIBIEU" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DBCODE" Type="varchar" MaxLength="1000" Nullable="false" />
+    <Property Name="DBNAME" Type="nvarchar" MaxLength="1000" Nullable="false" />
+    <Property Name="DONVINAME" Type="nvarchar" MaxLength="1000" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DLCanbo">
+    <Key>
+      <PropertyRef Name="IDCanbo" />
+    </Key>
+    <Property Name="IDCanbo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaCB" Type="varchar" MaxLength="1000" Nullable="false" />
+    <Property Name="TenCB" Type="nvarchar" MaxLength="1000" Nullable="false" />
+    <Property Name="Donvi" Type="nvarchar" MaxLength="1000" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Donvi">
+    <Key>
+      <PropertyRef Name="IDDonvi" />
+    </Key>
+    <Property Name="IDDonvi" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaDonvi" Type="varchar" MaxLength="50" />
+    <Property Name="TenDonvi" Type="nvarchar(max)" />
+    <Property Name="Ghichu" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'HTTT_UE.dbo.'IMport (3)$'' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="'IMport (3)$'">
+          <Property Name="IDCanbo" Type="nvarchar" MaxLength="255" />
+          <Property Name="MaCanbo" Type="float" />
+          <Property Name="TenCanbo" Type="nvarchar" MaxLength="255" />
+          <Property Name="Gioitinh" Type="float" />
+          <Property Name="Ngaysinh" Type="nvarchar" MaxLength="255" />
+          <Property Name="Chucvuchucdanh" Type="nvarchar" MaxLength="255" />
+          <Property Name="Nhiemvudangdamnhiem" Type="nvarchar" MaxLength="255" />
+          <Property Name="IDBomon" Type="nvarchar" MaxLength="255" />
+          <Property Name="Vehuu" Type="nvarchar" MaxLength="255" />
+          <Property Name="VehuuKeodai" Type="nvarchar" MaxLength="255" />
+          <Property Name="NgayvaocoquanNN" Type="nvarchar" MaxLength="255" />
+          <Property Name="Ngayvaodonvi" Type="nvarchar" MaxLength="255" />
+          <Property Name="Thamniencongtac" Type="nvarchar" MaxLength="255" />
+          <Property Name="MaCDNN" Type="nvarchar" MaxLength="255" />
+          <Property Name="TenCDNN" Type="nvarchar" MaxLength="255" />
+          <Property Name="Trinhdodaotao" Type="nvarchar" MaxLength="255" />
+          <Property Name="Chuyennganh" Type="nvarchar" MaxLength="255" />
+          <Property Name="HeDaotao" Type="nvarchar" MaxLength="255" />
+          <Property Name="Ngoaingu" Type="nvarchar" MaxLength="255" />
+          <Property Name="Tinhoc" Type="nvarchar" MaxLength="255" />
+          <Property Name="ChungchiBDNghiepvu" Type="nvarchar" MaxLength="255" />
+          <Property Name="NamBDDTBDHientai" Type="nvarchar" MaxLength="255" />
+          <Property Name="GiahanDTBDHientai" Type="nvarchar" MaxLength="255" />
+          <Property Name="NamHoanthanhDTBDHientai" Type="nvarchar" MaxLength="255" />
+          <Property Name="TenKhoaDTBD" Type="nvarchar" MaxLength="255" />
+          <Property Name="KinhphiDTBD" Type="nvarchar" MaxLength="255" />
+          <Property Name="Noidaotao" Type="nvarchar" MaxLength="255" />
+          <Property Name="Email" Type="nvarchar" MaxLength="255" />
+          <Property Name="SDT" Type="nvarchar" MaxLength="255" />
+          <Property Name="Ghichu" Type="nvarchar" MaxLength="255" />
+          <Property Name="Thoigiancapnhat" Type="nvarchar" MaxLength="255" />
+          <Property Name="IDPhanQuyen" Type="float" />
+          <Property Name="Matkhau" Type="nvarchar" MaxLength="255" />
+          <Property Name="RandomKey" Type="nvarchar" MaxLength="255" />
+          <Property Name="IDPhanhomVC" Type="nvarchar" MaxLength="255" />
+        </EntityType>-->
+  <EntityType Name="ModifyCongviecTemp">
+    <Key>
+      <PropertyRef Name="TempCV" />
+    </Key>
+    <Property Name="TempCV" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDCongviecTemp" Type="int" />
+    <Property Name="Thoiluongtepm" Type="float" />
+  </EntityType>
+  <EntityType Name="NhomCongviec">
+    <Key>
+      <PropertyRef Name="IDNhomCongviec" />
+    </Key>
+    <Property Name="IDNhomCongviec" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaNhomCV" Type="nvarchar" MaxLength="50" />
+    <Property Name="TenNhomCV" Type="nvarchar(max)" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="NhomVTVL">
+    <Key>
+      <PropertyRef Name="IDNhomVTVL" />
+    </Key>
+    <Property Name="IDNhomVTVL" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaNhomVTVL" Type="varchar" MaxLength="50" />
+    <Property Name="TenNhomVTVL" Type="nvarchar(max)" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PhanQuyen">
+    <Key>
+      <PropertyRef Name="IDPhanQuyen" />
+    </Key>
+    <Property Name="IDPhanQuyen" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenPhanQuyen" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PhuLuc1B">
+    <Key>
+      <PropertyRef Name="IDPhuLuc1B" />
+    </Key>
+    <Property Name="IDPhuLuc1B" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaPL1B" Type="int" />
+    <Property Name="IDCongviec" Type="int" />
+    <Property Name="IDNhomCongViec" Type="int" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="CongviecPL1B" Type="nvarchar(max)" />
+    <Property Name="ThutuPL1B" Type="int" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PhuLuc2">
+    <Key>
+      <PropertyRef Name="IDPhuLuc2" />
+    </Key>
+    <Property Name="IDPhuLuc2" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaPL2" Type="int" />
+    <Property Name="IDPhuLuc1B" Type="int" />
+    <Property Name="CongviecPL2" Type="nvarchar(max)" />
+    <Property Name="IDNhomCongviec" Type="int" />
+    <Property Name="ThuTtuPL2" Type="int" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="IDNhomVTVL" Type="int" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PhuLuc3CacYTAH">
+    <Key>
+      <PropertyRef Name="IDPL3" />
+    </Key>
+    <Property Name="IDPL3" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaPL3" Type="int" />
+    <Property Name="TenYTAH" Type="nvarchar(max)" />
+    <Property Name="MucdoCao" Type="nvarchar" MaxLength="3" />
+    <Property Name="MucdoTrungbinh" Type="nvarchar" MaxLength="3" />
+    <Property Name="MucdoThap" Type="nvarchar" MaxLength="3" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PhuLuc5VTVL">
+    <Key>
+      <PropertyRef Name="IDPhuLuc5" />
+    </Key>
+    <Property Name="IDPhuLuc5" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaPhuLuc5" Type="int" />
+    <Property Name="IDNhomCongviec" Type="int" />
+    <Property Name="NhomVTVL" Type="int" />
+    <Property Name="Chucdanh" Type="nvarchar(max)" />
+    <Property Name="CDNN" Type="nvarchar(max)" />
+    <Property Name="HangCDNN" Type="nvarchar(max)" />
+    <Property Name="Songuoilamvieccanthiet" Type="int" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PhuLuc6BangmotaVTVL">
+    <Key>
+      <PropertyRef Name="PhuLuc6" />
+    </Key>
+    <Property Name="PhuLuc6" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaPhuLuc6" Type="int" />
+    <Property Name="IDNhomCongviec" Type="int" />
+    <Property Name="IDNhomVTVL" Type="int" />
+    <Property Name="IDPhuLuc2" Type="int" />
+    <Property Name="TenSanpham" Type="nvarchar(max)" />
+    <Property Name="Ketquatrongnam" Type="nvarchar(max)" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="QuanHuyen">
+    <Key>
+      <PropertyRef Name="IDQuanHuyen" />
+    </Key>
+    <Property Name="IDQuanHuyen" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaQH" Type="int" />
+    <Property Name="TenQH" Type="nvarchar" MaxLength="500" />
+    <Property Name="MaTinh" Type="int" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Temp_Nha">
+    <Key>
+      <PropertyRef Name="IDTemp" />
+    </Key>
+    <Property Name="IDTemp" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MCB" Type="nvarchar" MaxLength="50" />
+    <Property Name="Hovaten" Type="nvarchar" MaxLength="50" />
+    <Property Name="IDPhanquyen" Type="int" />
+  </EntityType>
+  <EntityType Name="Temp_TruongBomon">
+    <Key>
+      <PropertyRef Name="IDTruongBM" />
+    </Key>
+    <Property Name="IDTruongBM" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Hovaten" Type="nvarchar" MaxLength="400" />
+    <Property Name="TenDV" Type="nvarchar" MaxLength="400" />
+  </EntityType>
+  <EntityType Name="TempNhomVC">
+    <Key>
+      <PropertyRef Name="IDCapnhatNhomVienchuc" />
+    </Key>
+    <Property Name="IDCapnhatNhomVienchuc" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDCanbo" Type="int" />
+    <Property Name="MaCB" Type="nvarchar" MaxLength="50" />
+    <Property Name="IDNhom" Type="int" />
+    <Property Name="Tennhom" Type="nvarchar" MaxLength="50" />
+    <Property Name="TenCB" Type="nvarchar(max)" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="THAMGIA">
+    <Key>
+      <PropertyRef Name="IDTHAMGIA" />
+    </Key>
+    <Property Name="IDTHAMGIA" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDDAIBIEU" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Checkin" Type="datetime" />
+    <Property Name="Checkout" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Tinh">
+    <Key>
+      <PropertyRef Name="IDTinhTP" />
+    </Key>
+    <Property Name="IDTinhTP" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaTinh" Type="int" />
+    <Property Name="TenTinh" Type="nvarchar" MaxLength="500" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="VitriCongviec">
+    <Key>
+      <PropertyRef Name="IDVitriCongviec" />
+    </Key>
+    <Property Name="IDVitriCongviec" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaVitriCongviec" Type="nvarchar" MaxLength="50" />
+    <Property Name="TenVitriCongviec" Type="nvarchar(max)" />
+    <Property Name="IDDonvi" Type="int" />
+    <Property Name="IDNhomCongviec" Type="int" />
+    <Property Name="Ghichu" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="VitriCongViecNew">
+    <Key>
+      <PropertyRef Name="IDViTriCongViecNew" />
+    </Key>
+    <Property Name="IDViTriCongViecNew" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaVTCV" Type="int" />
+    <Property Name="TenVTCV" Type="nvarchar(max)" />
+    <Property Name="SoluongNguoi" Type="int" />
+    <Property Name="IDDonvi" Type="int" />
+    <Property Name="IDNhomCongViec" Type="int" />
+    <Property Name="GhiChu" Type="nvarchar(max)" />
+    <Property Name="Ngaytao" Type="datetime" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="XaPhuong">
+    <Key>
+      <PropertyRef Name="IDXaPhuong" />
+    </Key>
+    <Property Name="IDXaPhuong" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaXP" Type="int" />
+    <Property Name="TenXP" Type="nvarchar" MaxLength="500" />
+    <Property Name="MaQH" Type="int" />
+    <Property Name="GhiChu" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="XetNghiem">
+    <Key>
+      <PropertyRef Name="IDXetNghiem" />
+    </Key>
+    <Property Name="IDXetNghiem" Type="int" Nullable="false" />
+    <Property Name="IDCanbo" Type="varchar" MaxLength="50" />
+    <Property Name="MaCanbo" Type="nvarchar" MaxLength="50" />
+    <Property Name="TenCanbo" Type="nvarchar(max)" />
+    <Property Name="SDT" Type="nvarchar" MaxLength="50" />
+    <Property Name="Thoidiem" Type="datetime" />
+    <Property Name="KetQua" Type="nvarchar" MaxLength="50" />
+    <Property Name="GhiChu" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_BieuMauDA02_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="BieuMauDA02" Type="Self.BieuMauDA02" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="BieuMauDA02">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BieuMauDA02_Donvi">
+    <End Role="Donvi" Type="Self.Donvi" Multiplicity="0..1" />
+    <End Role="BieuMauDA02" Type="Self.BieuMauDA02" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Donvi">
+        <PropertyRef Name="IDDonvi" />
+      </Principal>
+      <Dependent Role="BieuMauDA02">
+        <PropertyRef Name="IDDonvi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BieuMauDA02_NhomCongviec">
+    <End Role="NhomCongviec" Type="Self.NhomCongviec" Multiplicity="0..1" />
+    <End Role="BieuMauDA02" Type="Self.BieuMauDA02" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomCongviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Principal>
+      <Dependent Role="BieuMauDA02">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BieuMauDA02_VitriCongViecNew">
+    <End Role="VitriCongViecNew" Type="Self.VitriCongViecNew" Multiplicity="0..1" />
+    <End Role="BieuMauDA02" Type="Self.BieuMauDA02" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VitriCongViecNew">
+        <PropertyRef Name="IDViTriCongViecNew" />
+      </Principal>
+      <Dependent Role="BieuMauDA02">
+        <PropertyRef Name="IDVitriCongviecNew" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BieumauDA04_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="BieumauDA04" Type="Self.BieumauDA04" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="BieumauDA04">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Bomon_Donvi">
+    <End Role="Donvi" Type="Self.Donvi" Multiplicity="0..1" />
+    <End Role="Bomon" Type="Self.Bomon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Donvi">
+        <PropertyRef Name="IDDonvi" />
+      </Principal>
+      <Dependent Role="Bomon">
+        <PropertyRef Name="IDDonvi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Canbo_Bomon">
+    <End Role="Bomon" Type="Self.Bomon" Multiplicity="0..1" />
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bomon">
+        <PropertyRef Name="IDBomon" />
+      </Principal>
+      <Dependent Role="Canbo">
+        <PropertyRef Name="IDBomon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Congviec_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="Congviec" Type="Self.Congviec" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="Congviec">
+        <PropertyRef Name="IDCanBo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Congviec_NhomCongviec">
+    <End Role="NhomCongviec" Type="Self.NhomCongviec" Multiplicity="0..1" />
+    <End Role="Congviec" Type="Self.Congviec" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomCongviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Principal>
+      <Dependent Role="Congviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CongviecKemtheo_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="CongviecKemtheo" Type="Self.CongviecKemtheo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="CongviecKemtheo">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NhomCongviec_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="NhomCongviec" Type="Self.NhomCongviec" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="NhomCongviec">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NhomVTVL_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="NhomVTVL" Type="Self.NhomVTVL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="NhomVTVL">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc1B_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="PhuLuc1B" Type="Self.PhuLuc1B" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="PhuLuc1B">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc1B_Congviec">
+    <End Role="Congviec" Type="Self.Congviec" Multiplicity="0..1" />
+    <End Role="PhuLuc1B" Type="Self.PhuLuc1B" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Congviec">
+        <PropertyRef Name="IDCongviec" />
+      </Principal>
+      <Dependent Role="PhuLuc1B">
+        <PropertyRef Name="IDCongviec" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc1B_NhomCongviec">
+    <End Role="NhomCongviec" Type="Self.NhomCongviec" Multiplicity="0..1" />
+    <End Role="PhuLuc1B" Type="Self.PhuLuc1B" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomCongviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Principal>
+      <Dependent Role="PhuLuc1B">
+        <PropertyRef Name="IDNhomCongViec" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc2_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="PhuLuc2" Type="Self.PhuLuc2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="PhuLuc2">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc2_NhomCongviec">
+    <End Role="NhomCongviec" Type="Self.NhomCongviec" Multiplicity="0..1" />
+    <End Role="PhuLuc2" Type="Self.PhuLuc2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomCongviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Principal>
+      <Dependent Role="PhuLuc2">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc2_NhomVTVL">
+    <End Role="NhomVTVL" Type="Self.NhomVTVL" Multiplicity="0..1" />
+    <End Role="PhuLuc2" Type="Self.PhuLuc2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomVTVL">
+        <PropertyRef Name="IDNhomVTVL" />
+      </Principal>
+      <Dependent Role="PhuLuc2">
+        <PropertyRef Name="IDNhomVTVL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc2_PhuLuc1B">
+    <End Role="PhuLuc1B" Type="Self.PhuLuc1B" Multiplicity="0..1" />
+    <End Role="PhuLuc2" Type="Self.PhuLuc2" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhuLuc1B">
+        <PropertyRef Name="IDPhuLuc1B" />
+      </Principal>
+      <Dependent Role="PhuLuc2">
+        <PropertyRef Name="IDPhuLuc1B" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc3CacYTAH_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="PhuLuc3CacYTAH" Type="Self.PhuLuc3CacYTAH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="PhuLuc3CacYTAH">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc5VTVL_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="PhuLuc5VTVL" Type="Self.PhuLuc5VTVL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="PhuLuc5VTVL">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc5VTVL_NhomCongviec">
+    <End Role="NhomCongviec" Type="Self.NhomCongviec" Multiplicity="0..1" />
+    <End Role="PhuLuc5VTVL" Type="Self.PhuLuc5VTVL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomCongviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Principal>
+      <Dependent Role="PhuLuc5VTVL">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc5VTVL_NhomVTVL">
+    <End Role="NhomVTVL" Type="Self.NhomVTVL" Multiplicity="0..1" />
+    <End Role="PhuLuc5VTVL" Type="Self.PhuLuc5VTVL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomVTVL">
+        <PropertyRef Name="IDNhomVTVL" />
+      </Principal>
+      <Dependent Role="PhuLuc5VTVL">
+        <PropertyRef Name="NhomVTVL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc6BangmotaVTVL_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="PhuLuc6BangmotaVTVL" Type="Self.PhuLuc6BangmotaVTVL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="PhuLuc6BangmotaVTVL">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc6BangmotaVTVL_NhomCongviec">
+    <End Role="NhomCongviec" Type="Self.NhomCongviec" Multiplicity="0..1" />
+    <End Role="PhuLuc6BangmotaVTVL" Type="Self.PhuLuc6BangmotaVTVL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomCongviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Principal>
+      <Dependent Role="PhuLuc6BangmotaVTVL">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhuLuc6BangmotaVTVL_NhomVTVL">
+    <End Role="NhomVTVL" Type="Self.NhomVTVL" Multiplicity="0..1" />
+    <End Role="PhuLuc6BangmotaVTVL" Type="Self.PhuLuc6BangmotaVTVL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomVTVL">
+        <PropertyRef Name="IDNhomVTVL" />
+      </Principal>
+      <Dependent Role="PhuLuc6BangmotaVTVL">
+        <PropertyRef Name="IDNhomVTVL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_THAMGIA_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="1" />
+    <End Role="THAMGIA" Type="Self.THAMGIA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="THAMGIA">
+        <PropertyRef Name="IDDAIBIEU" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VitriCongviec_Donvi">
+    <End Role="Donvi" Type="Self.Donvi" Multiplicity="0..1" />
+    <End Role="VitriCongviec" Type="Self.VitriCongviec" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Donvi">
+        <PropertyRef Name="IDDonvi" />
+      </Principal>
+      <Dependent Role="VitriCongviec">
+        <PropertyRef Name="IDDonvi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VitriCongviec_NhomCongviec">
+    <End Role="NhomCongviec" Type="Self.NhomCongviec" Multiplicity="0..1" />
+    <End Role="VitriCongviec" Type="Self.VitriCongviec" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhomCongviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Principal>
+      <Dependent Role="VitriCongviec">
+        <PropertyRef Name="IDNhomCongviec" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VitriCongViecNew_Canbo">
+    <End Role="Canbo" Type="Self.Canbo" Multiplicity="0..1" />
+    <End Role="VitriCongViecNew" Type="Self.VitriCongViecNew" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Canbo">
+        <PropertyRef Name="IDCanbo" />
+      </Principal>
+      <Dependent Role="VitriCongViecNew">
+        <PropertyRef Name="IDCanbo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VitriCongViecNew_Donvi">
+    <End Role="Donvi" Type="Self.Donvi" Multiplicity="0..1" />
+    <End Role="VitriCongViecNew" Type="Self.VitriCongViecNew" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Donvi">
+        <PropertyRef Name="IDDonvi" />
+      </Principal>
+      <Dependent Role="VitriCongViecNew">
+        <PropertyRef Name="IDDonvi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HTTT_UEModelStoreContainer">
+    <EntitySet Name="Appointments" EntityType="Self.Appointments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BieuMauDA02" EntityType="Self.BieuMauDA02" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BieumauDA04" EntityType="Self.BieumauDA04" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Bomon" EntityType="Self.Bomon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Canbo" EntityType="Self.Canbo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Congviec" EntityType="Self.Congviec" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CongviecKemtheo" EntityType="Self.CongviecKemtheo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DAIBIEU" EntityType="Self.DAIBIEU" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DLCanbo" EntityType="Self.DLCanbo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Donvi" EntityType="Self.Donvi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ModifyCongviecTemp" EntityType="Self.ModifyCongviecTemp" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhomCongviec" EntityType="Self.NhomCongviec" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhomVTVL" EntityType="Self.NhomVTVL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhanQuyen" EntityType="Self.PhanQuyen" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhuLuc1B" EntityType="Self.PhuLuc1B" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhuLuc2" EntityType="Self.PhuLuc2" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhuLuc3CacYTAH" EntityType="Self.PhuLuc3CacYTAH" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhuLuc5VTVL" EntityType="Self.PhuLuc5VTVL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhuLuc6BangmotaVTVL" EntityType="Self.PhuLuc6BangmotaVTVL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QuanHuyen" EntityType="Self.QuanHuyen" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Temp_Nha" EntityType="Self.Temp_Nha" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Temp_TruongBomon" EntityType="Self.Temp_TruongBomon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TempNhomVC" EntityType="Self.TempNhomVC" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="THAMGIA" EntityType="Self.THAMGIA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tinh" EntityType="Self.Tinh" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VitriCongviec" EntityType="Self.VitriCongviec" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VitriCongViecNew" EntityType="Self.VitriCongViecNew" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="XaPhuong" EntityType="Self.XaPhuong" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="XetNghiem" EntityType="Self.XetNghiem" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_BieuMauDA02_Canbo" Association="Self.FK_BieuMauDA02_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="BieuMauDA02" EntitySet="BieuMauDA02" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BieuMauDA02_Donvi" Association="Self.FK_BieuMauDA02_Donvi">
+      <End Role="Donvi" EntitySet="Donvi" />
+      <End Role="BieuMauDA02" EntitySet="BieuMauDA02" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BieuMauDA02_NhomCongviec" Association="Self.FK_BieuMauDA02_NhomCongviec">
+      <End Role="NhomCongviec" EntitySet="NhomCongviec" />
+      <End Role="BieuMauDA02" EntitySet="BieuMauDA02" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BieuMauDA02_VitriCongViecNew" Association="Self.FK_BieuMauDA02_VitriCongViecNew">
+      <End Role="VitriCongViecNew" EntitySet="VitriCongViecNew" />
+      <End Role="BieuMauDA02" EntitySet="BieuMauDA02" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BieumauDA04_Canbo" Association="Self.FK_BieumauDA04_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="BieumauDA04" EntitySet="BieumauDA04" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Bomon_Donvi" Association="Self.FK_Bomon_Donvi">
+      <End Role="Donvi" EntitySet="Donvi" />
+      <End Role="Bomon" EntitySet="Bomon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Canbo_Bomon" Association="Self.FK_Canbo_Bomon">
+      <End Role="Bomon" EntitySet="Bomon" />
+      <End Role="Canbo" EntitySet="Canbo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Congviec_Canbo" Association="Self.FK_Congviec_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="Congviec" EntitySet="Congviec" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Congviec_NhomCongviec" Association="Self.FK_Congviec_NhomCongviec">
+      <End Role="NhomCongviec" EntitySet="NhomCongviec" />
+      <End Role="Congviec" EntitySet="Congviec" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CongviecKemtheo_Canbo" Association="Self.FK_CongviecKemtheo_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="CongviecKemtheo" EntitySet="CongviecKemtheo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NhomCongviec_Canbo" Association="Self.FK_NhomCongviec_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="NhomCongviec" EntitySet="NhomCongviec" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NhomVTVL_Canbo" Association="Self.FK_NhomVTVL_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="NhomVTVL" EntitySet="NhomVTVL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc1B_Canbo" Association="Self.FK_PhuLuc1B_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="PhuLuc1B" EntitySet="PhuLuc1B" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc1B_Congviec" Association="Self.FK_PhuLuc1B_Congviec">
+      <End Role="Congviec" EntitySet="Congviec" />
+      <End Role="PhuLuc1B" EntitySet="PhuLuc1B" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc1B_NhomCongviec" Association="Self.FK_PhuLuc1B_NhomCongviec">
+      <End Role="NhomCongviec" EntitySet="NhomCongviec" />
+      <End Role="PhuLuc1B" EntitySet="PhuLuc1B" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc2_Canbo" Association="Self.FK_PhuLuc2_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="PhuLuc2" EntitySet="PhuLuc2" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc2_NhomCongviec" Association="Self.FK_PhuLuc2_NhomCongviec">
+      <End Role="NhomCongviec" EntitySet="NhomCongviec" />
+      <End Role="PhuLuc2" EntitySet="PhuLuc2" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc2_NhomVTVL" Association="Self.FK_PhuLuc2_NhomVTVL">
+      <End Role="NhomVTVL" EntitySet="NhomVTVL" />
+      <End Role="PhuLuc2" EntitySet="PhuLuc2" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc2_PhuLuc1B" Association="Self.FK_PhuLuc2_PhuLuc1B">
+      <End Role="PhuLuc1B" EntitySet="PhuLuc1B" />
+      <End Role="PhuLuc2" EntitySet="PhuLuc2" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc3CacYTAH_Canbo" Association="Self.FK_PhuLuc3CacYTAH_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="PhuLuc3CacYTAH" EntitySet="PhuLuc3CacYTAH" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc5VTVL_Canbo" Association="Self.FK_PhuLuc5VTVL_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="PhuLuc5VTVL" EntitySet="PhuLuc5VTVL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc5VTVL_NhomCongviec" Association="Self.FK_PhuLuc5VTVL_NhomCongviec">
+      <End Role="NhomCongviec" EntitySet="NhomCongviec" />
+      <End Role="PhuLuc5VTVL" EntitySet="PhuLuc5VTVL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc5VTVL_NhomVTVL" Association="Self.FK_PhuLuc5VTVL_NhomVTVL">
+      <End Role="NhomVTVL" EntitySet="NhomVTVL" />
+      <End Role="PhuLuc5VTVL" EntitySet="PhuLuc5VTVL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc6BangmotaVTVL_Canbo" Association="Self.FK_PhuLuc6BangmotaVTVL_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="PhuLuc6BangmotaVTVL" EntitySet="PhuLuc6BangmotaVTVL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc6BangmotaVTVL_NhomCongviec" Association="Self.FK_PhuLuc6BangmotaVTVL_NhomCongviec">
+      <End Role="NhomCongviec" EntitySet="NhomCongviec" />
+      <End Role="PhuLuc6BangmotaVTVL" EntitySet="PhuLuc6BangmotaVTVL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhuLuc6BangmotaVTVL_NhomVTVL" Association="Self.FK_PhuLuc6BangmotaVTVL_NhomVTVL">
+      <End Role="NhomVTVL" EntitySet="NhomVTVL" />
+      <End Role="PhuLuc6BangmotaVTVL" EntitySet="PhuLuc6BangmotaVTVL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_THAMGIA_Canbo" Association="Self.FK_THAMGIA_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="THAMGIA" EntitySet="THAMGIA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VitriCongviec_Donvi" Association="Self.FK_VitriCongviec_Donvi">
+      <End Role="Donvi" EntitySet="Donvi" />
+      <End Role="VitriCongviec" EntitySet="VitriCongviec" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VitriCongviec_NhomCongviec" Association="Self.FK_VitriCongviec_NhomCongviec">
+      <End Role="NhomCongviec" EntitySet="NhomCongviec" />
+      <End Role="VitriCongviec" EntitySet="VitriCongviec" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VitriCongViecNew_Canbo" Association="Self.FK_VitriCongViecNew_Canbo">
+      <End Role="Canbo" EntitySet="Canbo" />
+      <End Role="VitriCongViecNew" EntitySet="VitriCongViecNew" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VitriCongViecNew_Donvi" Association="Self.FK_VitriCongViecNew_Donvi">
+      <End Role="Donvi" EntitySet="Donvi" />
+      <End Role="VitriCongViecNew" EntitySet="VitriCongViecNew" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

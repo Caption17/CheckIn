@@ -1,0 +1,581 @@
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\Delegate.exe.config
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\Delegate.exe
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\Delegate.pdb
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Data.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Data.v20.1.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Utils.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Data.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Data.v20.1.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Utils.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.exe.licenses
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.csproj.CopyComplete
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.exe
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.pdb
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\obj\Debug\Delegate.qlsv.resources
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Office.v18.2.Core.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Images.v18.2.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\DevExpress.Office.v18.2.Core.xml
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+E:\CPPM\DAGK\Delegate\Delegate\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\Delegate.exe.config
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\Delegate.exe
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\Delegate.pdb
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DX.Utils.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Office.v18.2.Core.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Images.v18.2.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Data.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Utils.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Office.v18.2.Core.xml
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.CheckInOut.resources
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.FrameWelcome.resources
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.QLDB.resources
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.exe.licenses
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.csproj.CopyComplete
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.exe
+E:\Phan mem\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.pdb
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.CheckInOut.resources
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.FrameWelcome.resources
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.QLDB.resources
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.exe.licenses
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+E:\DelegateFast\Delegate\Delegate\bin\Debug\Delegate.exe.config
+E:\DelegateFast\Delegate\Delegate\bin\Debug\Delegate.exe
+E:\DelegateFast\Delegate\Delegate\bin\Debug\Delegate.pdb
+E:\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\DelegateFast\Delegate\Delegate\bin\Debug\DX.Utils.dll
+E:\DelegateFast\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.csproj.CopyComplete
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.exe
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.pdb
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+E:\DelegateFast\Delegate\Delegate\obj\Debug\Delegate.DSCanbo.resources
+E:\DelegateFast\Backup-Source\Delegate\Delegate\bin\Debug\Delegate.exe.config
+E:\DelegateFast\Backup-Source\Delegate\Delegate\bin\Debug\Delegate.exe
+E:\DelegateFast\Backup-Source\Delegate\Delegate\bin\Debug\Delegate.pdb
+E:\DelegateFast\Backup-Source\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\DelegateFast\Backup-Source\Delegate\Delegate\bin\Debug\DX.Utils.dll
+E:\DelegateFast\Backup-Source\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.DSCanbo.resources
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.CheckInOut.resources
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.FrameWelcome.resources
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.QLDB.resources
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.exe.licenses
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.csproj.CopyComplete
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.exe
+E:\DelegateFast\Backup-Source\Delegate\Delegate\obj\Debug\Delegate.pdb
+D:\Project\Delegate\Delegate\bin\Debug\Delegate.exe.config
+D:\Project\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\Project\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\Project\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Project\Delegate\Delegate\bin\Debug\DX.Utils.dll
+D:\Project\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.DSCanbo.resources
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.CheckInOut.resources
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.FrameWelcome.resources
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.QLDB.resources
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.exe.licenses
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.CopyComplete
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.exe
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.pdb
+D:\Project\Delegate\Delegate\obj\Debug\Delegate.VangMatForm.resources
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\Delegate.exe.config
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\Delegate.exe
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\Delegate.pdb
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DX.Utils.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.VangMatForm.resources
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.DSCanbo.resources
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.CheckInOut.resources
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.FrameWelcome.resources
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.QLDB.resources
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.exe.licenses
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.CopyComplete
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.exe
+D:\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.pdb
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.VangMatForm.resources
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.DSCanbo.resources
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.CheckinOut.resources
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.FrameWelcome.resources
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.QLDB.resources
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.exe.licenses
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\Delegate.exe.config
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\Delegate.exe
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\Delegate.pdb
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Data.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Utils.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DX.Utils.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Office.v19.2.Core.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Images.v19.2.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Data.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Utils.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.Office.v19.2.Core.xml
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.csproj.CopyComplete
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.exe
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\obj\Debug\Delegate.pdb
+H:\My Drive\5.Van ban_Ho So Ca Nhan\Giang day\Project\Update_Diem Danh 03.2021\Project\Delegate\Delegate\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.VangMatForm.resources
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.DSCanbo.resources
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.CheckinOut.resources
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.Form1.resources
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.FrameWelcome.resources
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.Properties.Resources.resources
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.QLDB.resources
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.csproj.GenerateResource.cache
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.exe.licenses
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.exe
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.pdb
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\Delegate.exe.config
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\Delegate.exe
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\Delegate.pdb
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Data.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DX.Utils.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Images.v19.2.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Data.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\Nhatt\Project_TCHC\Diem Danh\13.10.2021\Delegate\Delegate\obj\Debug\Delegate.csproj.CopyComplete
